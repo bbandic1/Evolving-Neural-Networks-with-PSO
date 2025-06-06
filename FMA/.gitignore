@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Large data files
+data/raw/
+data/processed/
+
+# VS Code settings
+.vscode/
+
+# Other common Python files to ignore
+*.pyc
+*.egg-info/
